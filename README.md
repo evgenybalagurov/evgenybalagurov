@@ -5,6 +5,7 @@ I love beautiful user interfaces, challenging tasks and new technologies
 
 My skill set
 ---
+<div>
 <img src="https://img.shields.io/badge/HTML5-eee?style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-eee?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-eee?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
@@ -14,7 +15,7 @@ My skill set
 <img src="https://img.shields.io/badge/Git-eee?style=for-the-badge&logo=Git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-eee?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/npm-eee?style=for-the-badge&logo=npm&logoColor=CB3837"/>
-<img src="https://img.shields.io/badge/npm-eee?style=for-the-badge&logo=npm&logoColor=CB3837"/>
 <img src="https://img.shields.io/badge/Node.js-eee?style=for-the-badge&logo=Node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express-eee?style=for-the-badge&logo=Express&logoColor=000"/>
 <img src="https://img.shields.io/badge/MongoDB-eee?style=for-the-badge&logo=MongoDB&logoColor=47A248"/>
+</div>
