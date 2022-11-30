@@ -1,6 +1,7 @@
 Hi there, me name is Evgeny 👋
 ---
 I' m front-end developer
+
 I love beautiful user interfaces, challenging tasks and new technologies
 
 My skill set
@@ -19,3 +20,8 @@ My skill set
 <img src="https://img.shields.io/badge/Express-eee?style=for-the-badge&logo=Express&logoColor=000"/>
 <img src="https://img.shields.io/badge/MongoDB-eee?style=for-the-badge&logo=MongoDB&logoColor=47A248"/>
 </div>
+
+My contact information
+---
+(email) evgeny.balagurov@gmail.com
+(telegram) https://t.me/evgeny_balagurov
