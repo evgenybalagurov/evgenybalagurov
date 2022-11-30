@@ -23,5 +23,6 @@ My skill set
 
 My contact information
 ---
-(email) evgeny.balagurov@gmail.com
-(telegram) https://t.me/evgeny_balagurov
+email: evgeny.balagurov@gmail.com
+
+telegram: https://t.me/evgeny_balagurov
